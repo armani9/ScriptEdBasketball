@@ -1,3 +1,21 @@
 body {
     font-family: Helvetica;
 }
+#player-one-score{
+    font-family: cursive;
+    color:red;
+}
+#player-two-score{
+    font-family:italic;
+    color:green;
+}
+.player-one-name{
+    font-family:oblique;
+    color:black;
+    font-size:48;
+}
+.player-two-name{
+    font-family:arial;
+    color:black;
+    font-size:48;
+}
